@@ -36,3 +36,7 @@ Resources for SWE Open Cohort
 * [Lesson](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-1-Object_Oriented_Programming/0.1.5-Inheritance.html#javascript)
 * [Live Review](https://youtu.be/iIBBW58BY2A)
 * [Exit Ticket](https://forms.gle/zkbrPtLq8kxk2efm7)
+
+#### Bonus Lesson: Static Methods
+
+* [Lesson}(https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-1-Object_Oriented_Programming/0.1.4-Static_functions_and_properties.html#javascript)
