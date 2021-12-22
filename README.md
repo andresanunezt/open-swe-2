@@ -39,4 +39,4 @@ Resources for SWE Open Cohort
 
 #### Bonus Lesson: Static Methods
 
-* [Lesson}(https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-1-Object_Oriented_Programming/0.1.4-Static_functions_and_properties.html#javascript)
+* [Lesson](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-1-Object_Oriented_Programming/0.1.4-Static_functions_and_properties.html#javascript)
