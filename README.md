@@ -36,3 +36,14 @@ Resources for SWE Open Cohort
 * [Lesson](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-1-Object_Oriented_Programming/0.1.5-Inheritance.html#javascript)
 * [Live Review](https://youtu.be/iIBBW58BY2A)
 * [Exit Ticket](https://forms.gle/zkbrPtLq8kxk2efm7)
+
+#### Bonus Lesson: Static Methods
+
+* [Lesson](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-1-Object_Oriented_Programming/0.1.4-Static_functions_and_properties.html#javascript)
+
+
+#### OOP Challenge
+
+* [Slides](https://docs.google.com/presentation/d/1rYs48tonGgr71u1xqqT0mvr8OslQ50cZmPG3S5CmwIM/edit?usp=sharing)
+* [Lesson](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-1-Object_Oriented_Programming/0.1.7-OOP_Challenge.html#javascript)
+* [Bonus — Codewars 8 Kyu](https://www.codewars.com/kata/search/javascript?q=&r[]=-8&beta=false)
