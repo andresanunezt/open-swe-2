@@ -51,11 +51,15 @@ Resources for SWE Open Cohort
 
 
 
-#### Lookahead: Asynchronous vs. Synchronous JS
+#### Week 2: Asynchronous vs. Synchronous JS
 
 *[Pre-reading](https://blog.bitsrc.io/understanding-asynchronous-javascript-the-event-loop-74cd408419ff)
 * [Callstacks](https://www.freecodecamp.org/news/understanding-the-javascript-call-stack-861e41ae61d4/)
 * [V8 Engine](https://medium.com/hackernoon/javascript-v8-engine-explained-3f940148d4ef)
 * [Event loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ&vl=en&ab_channel=JSConf)
 * [Async JS](https://medium.com/@ajmeyghani/async-javascript-a-pocket-reference-2bb16ac40d21)
+
+#### Lookahead: Promises & Async/Await
+
+
 
