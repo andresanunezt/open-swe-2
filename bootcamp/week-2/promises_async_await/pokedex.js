@@ -7,7 +7,6 @@
 
 
 // Your pokeDex() method should be able to look-up this pokemon if you’ve caught it and return information about this pokemon.
-import { rejects } from 'assert'
 import fetch from 'node-fetch' //import dependencies
 
 //pokemon storage
@@ -20,7 +19,8 @@ function getRandomPokemon() {
     return fetch(`https://pokeapi.co/api/v2/pokemon/${randomNum}`).then((res) => {
       return res.json() // JSON string obj -> JS Object   
     }).then((data) => {
-        console.log(data.forms)
+        //console.log(data.forms)
+        return data.forms
     }).catch(() => {
         console.log('pokemon not found')
     })
@@ -57,15 +57,28 @@ function catchEm(pokemon, pokeball) {
 
 
 
-// function pokeDex() {
-
-// }
+function pokeDex(pokemon) {
+    if(caughtPokemon[pokemon.name]) {
+        let info = pokemon
+        console.log(`You've caught ${caughtPokemon[pokemon.name]} of ${pokemon.name}, here is some information about this pokemon: ${info}`)
+    }
+}
 
 
 let randomPokemon = getRandomPokemon()
 
 catchEm(randomPokemon, 'masterball').then((pokemon) => {
     //store the pokemon into our obj
-}).catch(() => {
-    console.log(`you missed!`)
+    //[{name:'',imgURL:''}]
+    let pokemonName = pokemon[0].name 
+    if(caughtPokemon[pokemonName]) {
+        caughtPokemon[pokemonName]++
+    } else {
+        caughtPokemon[pokemonName] = 1
+    }
+    console.log(`Your current Pokemons: ${JSON.stringify(caughtPokemon)}`)
+}).catch((err) => {
+    console.error(`you missed! ${err}`)
 })
+
+pokeDex(randomPokemon)
