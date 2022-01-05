@@ -61,5 +61,10 @@ Resources for SWE Open Cohort
 
 #### Lookahead: Promises & Async/Await
 
-
+* [Slides](https://docs.google.com/presentation/d/1r-3M-p7hTNh5y0pUjV2xNHjJLwX_vXG95OOeTPlx8HA/edit?usp=sharing)
+* [code samples](https://github.com/MultiverseLearningProducts/open-swe-2/tree/main/bootcamp/week-2/promises_async_await)
+* [code challenge](https://replit.com/@LindaEng/Ordered-Array#index.js)
+* [Lesson](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-2-Asynchronous_JavaScript/0.2.2-Promises.html#javascript)
+* [Live Review]()
+* [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSda1s6UnjdQ22b3NM_YlQhsGaVnYvI0xt0StPXu5JH3RU9P5Q/viewform)
 
