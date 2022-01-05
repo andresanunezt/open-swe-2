@@ -59,7 +59,7 @@ Resources for SWE Open Cohort
 * [Event loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ&vl=en&ab_channel=JSConf)
 * [Async JS](https://medium.com/@ajmeyghani/async-javascript-a-pocket-reference-2bb16ac40d21)
 
-#### Lookahead: Promises & Async/Await
+#### Promises & Async/Await
 
 * [Slides](https://docs.google.com/presentation/d/1r-3M-p7hTNh5y0pUjV2xNHjJLwX_vXG95OOeTPlx8HA/edit?usp=sharing)
 * [code samples](https://github.com/MultiverseLearningProducts/open-swe-2/tree/main/bootcamp/week-2/promises_async_await)
