@@ -72,12 +72,13 @@ Resources for SWE Open Cohort
 #### Intro to SQL
 * [Intro to Databases](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-3-Relational_Databases/0.3.2-Introduction_to_Databases.html#javascript)
 * [w3 schools - Intro to SQL](https://www.w3schools.com/sql/sql_intro.asp)
-* [w3 schools - SQL Data Types](https://www.w3schools.com/mysql/mysql_datatypes.asp)
-* [Slides](https://docs.google.com/presentation/d/1JZKDAHsJBim-4ycOm7hzNidGcMww2Dg_2R2q7hIB9V4/edit?usp=sharing)
-* [Slides](https://docs.google.com/presentation/d/1qYRW0CJ1ELMnazDcTIabTR9vPTAjJcr9q-VxTPCsW1Q/edit?usp=sharing)
-* [Lesson](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-3-Relational_Databases/0.3.3-Basic_SQL_Commands.html#javascript)
+* [Slides: Intro](https://docs.google.com/presentation/d/1JZKDAHsJBim-4ycOm7hzNidGcMww2Dg_2R2q7hIB9V4/edit?usp=sharing)
+* [Slides: Joins](https://docs.google.com/presentation/d/1qYRW0CJ1ELMnazDcTIabTR9vPTAjJcr9q-VxTPCsW1Q/edit?usp=sharing)
+* [Lesson: Intro to SQL](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-3-Relational_Databases/0.3.3-Basic_SQL_Commands.html#javascript)
+* [Lesson: SQL Joins](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-3-Relational_Databases/0.3.4-SQL_Joins.html#javascript)
 * [SQL query practice](https://sqlzoo.net/wiki/SQL_Tutorial)
-* [Exit Ticket](https://forms.gle/dVbuUbo2YiZWZHDN8)
+* [Exit Ticket 1](https://forms.gle/dVbuUbo2YiZWZHDN8)
+* [Exit Ticket 2](https://forms.gle/WBgxyx2bB2xxnyb17)
 * [Post-Reading: Intro to ORMS](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-3-Relational_Databases/0.3.7-Object_Relational_Mapping_part_1.html#javascript)
 * [Post-Reading: Intro to ORMS II](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-3-Relational_Databases/0.3.8-Object_Relational_Mapping_part_2.html#javascript)
 
