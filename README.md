@@ -79,9 +79,9 @@ Resources for SWE Open Cohort
 * [SQL query practice](https://sqlzoo.net/wiki/SQL_Tutorial)
 * [Exit Ticket 1](https://forms.gle/dVbuUbo2YiZWZHDN8)
 * [Exit Ticket 2](https://forms.gle/WBgxyx2bB2xxnyb17)
-* [Recording 1](https://youtu.be/I95-QsCH9yk)
-* [Recording 2](https://youtu.be/hRfFVWFkbmw)
-* [Recording 3](https://youtu.be/UxoG-RlwCjA)
+* [Recording 1: Intro](https://youtu.be/I95-QsCH9yk)
+* [Recording 2: Update/ Delete](https://youtu.be/hRfFVWFkbmw)
+* [Recording 3: Joins](https://youtu.be/UxoG-RlwCjA)
 * [Post-Reading: Intro to ORMS](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-3-Relational_Databases/0.3.7-Object_Relational_Mapping_part_1.html#javascript)
 * [Post-Reading: Intro to ORMS II](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-3-Relational_Databases/0.3.8-Object_Relational_Mapping_part_2.html#javascript)
 
