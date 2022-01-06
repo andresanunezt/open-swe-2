@@ -76,7 +76,7 @@ Resources for SWE Open Cohort
 * [Slides](https://docs.google.com/presentation/d/1JZKDAHsJBim-4ycOm7hzNidGcMww2Dg_2R2q7hIB9V4/edit?usp=sharing)
 * [Lesson](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-3-Relational_Databases/0.3.3-Basic_SQL_Commands.html#javascript)
 * [SQL query practice](https://sqlzoo.net/wiki/SQL_Tutorial)
-* [Exit Ticket](https://forms.gle/LrXdfTeJhChLAv5H6)
+* [Exit Ticket](https://forms.gle/dVbuUbo2YiZWZHDN8)
 * [Post-Reading: Intro to ORMS](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-3-Relational_Databases/0.3.7-Object_Relational_Mapping_part_1.html#javascript)
 * [Post-Reading: Intro to ORMS II](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-3-Relational_Databases/0.3.8-Object_Relational_Mapping_part_2.html#javascript)
 
