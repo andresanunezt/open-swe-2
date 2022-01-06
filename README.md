@@ -69,11 +69,11 @@ Resources for SWE Open Cohort
 * [Live Review]()
 * [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSda1s6UnjdQ22b3NM_YlQhsGaVnYvI0xt0StPXu5JH3RU9P5Q/viewform)
 
-### Intro to SQL
+#### Intro to SQL
 * [Intro to Databases](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-3-Relational_Databases/0.3.2-Introduction_to_Databases.html#javascript)
 * [w3 schools - Intro to SQL](https://www.w3schools.com/sql/sql_intro.asp)
 * [w3 schools - SQL Data Types](https://www.w3schools.com/mysql/mysql_datatypes.asp)
-* [Slides](https://docs.google.com/presentation/d/1eNTWu7c77UZ6tmLOE1v7HAS3mjYvVxSHU2mT4Y0QMMM/edit?usp=sharing)
+* [Slides](https://docs.google.com/presentation/d/1JZKDAHsJBim-4ycOm7hzNidGcMww2Dg_2R2q7hIB9V4/edit?usp=sharing)
 * [Lesson](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-3-Relational_Databases/0.3.3-Basic_SQL_Commands.html#javascript)
 * [SQL query practice](https://sqlzoo.net/wiki/SQL_Tutorial)
 * [Exit Ticket](https://forms.gle/LrXdfTeJhChLAv5H6)
