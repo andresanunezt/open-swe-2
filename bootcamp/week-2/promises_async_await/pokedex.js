@@ -65,7 +65,10 @@ function pokeDex(pokemon) {
 }
 
 
-let randomPokemon = getRandomPokemon()
+let randomPokemon = getRandomPokemon().then((data) => {
+    console.log(data)
+})
+
 
 catchEm(randomPokemon, 'masterball').then((pokemon) => {
     //store the pokemon into our obj
@@ -81,4 +84,4 @@ catchEm(randomPokemon, 'masterball').then((pokemon) => {
     console.error(`you missed! ${err}`)
 })
 
-pokeDex(randomPokemon)
+// pokeDex(randomPokemon)
