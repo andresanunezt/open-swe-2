@@ -90,3 +90,10 @@ Resources for SWE Open Cohort
 #### Lesson I: Sequelize
 * [Sequilize Part 1](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-3-Relational_Databases/0.3.9a-Sequelize_part_1.html#javascript)
 * [Sequilize Part 2](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-3-Relational_Databases/0.3.9b-Sequelize_part_2.html#javascript)
+* [SQLite Tutorial](https://www.sqlitetutorial.net/sqlite-nodejs/insert/)
+* [SQLite Browswer](https://sqlitebrowser.org/dl/)
+* [Sequelize Documentation](https://sequelize.org/)
+* [Sequelize: An Introduction](https://www.youtube.com/watch?v=qsDvJrGMSUY&ab_channel=AlexBooker)
+* [Slides, Part 1](https://docs.google.com/presentation/d/16r8miS5lYOS3SQshnCEurdXCytjQ88tM72IMO_Mu6zk/edit#slide=id.ge0b897f43a_0_0)
+* [Slides, Part 2](https://docs.google.com/presentation/d/16r8miS5lYOS3SQshnCEurdXCytjQ88tM72IMO_Mu6zk/edit?usp=sharing)
+* [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLScBTlGTVpxuwVvJUIIE-vLp5YboY6iUWMKb5lgF8770KhmdoQ/viewform)
