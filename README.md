@@ -85,3 +85,8 @@ Resources for SWE Open Cohort
 * [Post-Reading: Intro to ORMS](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-3-Relational_Databases/0.3.7-Object_Relational_Mapping_part_1.html#javascript)
 * [Post-Reading: Intro to ORMS II](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-3-Relational_Databases/0.3.8-Object_Relational_Mapping_part_2.html#javascript)
 
+### Week 3
+
+#### Lesson I: Sequelize
+* [Sequilize Part 1](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-3-Relational_Databases/0.3.9a-Sequelize_part_1.html#javascript)
+* [Sequilize Part 2](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-3-Relational_Databases/0.3.9b-Sequelize_part_2.html#javascript)
