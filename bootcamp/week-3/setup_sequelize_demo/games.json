@@ -1,0 +1,9 @@
+{
+    "data": [
+        {"name": "FF7", "platform": "PS1"},
+        {"name": "Spyro", "platform": "PS1"},
+        {"name": "Metroid", "platform": "SNES"},
+        {"name": "Street Fighter", "platform": "PS1"},
+        {"name": "Animal Crossing", "platform": "SWTICH"}
+    ]
+}
