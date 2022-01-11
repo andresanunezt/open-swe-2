@@ -91,7 +91,7 @@ Resources for SWE Open Cohort
 * [Sequilize Part 1](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-3-Relational_Databases/0.3.9a-Sequelize_part_1.html#javascript)
 * [Sequilize Part 2](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-3-Relational_Databases/0.3.9b-Sequelize_part_2.html#javascript)
 * [SQLite Tutorial](https://www.sqlitetutorial.net/sqlite-nodejs/insert/)
-* [SQLite Browswer](https://sqlitebrowser.org/dl/)
+* [SQLite Browser](https://sqlitebrowser.org/dl/)
 * [Sequelize Documentation](https://sequelize.org/)
 * [Sequelize: An Introduction](https://www.youtube.com/watch?v=qsDvJrGMSUY&ab_channel=AlexBooker)
 * [Slides, Part 1](https://docs.google.com/presentation/d/16r8miS5lYOS3SQshnCEurdXCytjQ88tM72IMO_Mu6zk/edit#slide=id.ge0b897f43a_0_0)
@@ -100,3 +100,7 @@ Resources for SWE Open Cohort
 
 #### Lesson 2: Sequelize & Web/App Servers
 * [BD Sequelize Demo](https://multiverse-io.zoom.us/rec/share/FMweCYHY7PIp5NCCQeWF21FXITw9jUtuVBkkTMnzD75LSkMJ7XUz47AUvWSG9EPq.NoatMdzv4gVCV1ZR)
+* [Exit Ticket - Sequelize](https://docs.google.com/forms/d/e/1FAIpQLScBTlGTVpxuwVvJUIIE-vLp5YboY6iUWMKb5lgF8770KhmdoQ/viewform)
+* [Slides - Web Servers](https://docs.google.com/presentation/d/1S-juyZyrLwZGomj1tVWgSWCkZQSzsMKW7tCZh09rIpY/edit#slide=id.gddcce021ba_0_0)
+* [Delivery Plan - Web Servers](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-4-RESTful_Servers/0.4.2-Application_Servers.html#javascript)
+* [Exit Ticket - Express Web Servers](https://docs.google.com/forms/d/e/1FAIpQLSfMpjFCkG-ehKo_UtpnyTAfN9HTpXA69COuu5NqcCYKuSgm3w/viewform)
