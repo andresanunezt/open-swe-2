@@ -97,3 +97,6 @@ Resources for SWE Open Cohort
 * [Slides, Part 1](https://docs.google.com/presentation/d/16r8miS5lYOS3SQshnCEurdXCytjQ88tM72IMO_Mu6zk/edit#slide=id.ge0b897f43a_0_0)
 * [Slides, Part 2](https://docs.google.com/presentation/d/16r8miS5lYOS3SQshnCEurdXCytjQ88tM72IMO_Mu6zk/edit?usp=sharing)
 * [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLScBTlGTVpxuwVvJUIIE-vLp5YboY6iUWMKb5lgF8770KhmdoQ/viewform)
+
+#### Lesson 2: Sequelize & Web/App Servers
+* [BD Sequelize Demo](https://multiverse-io.zoom.us/rec/share/FMweCYHY7PIp5NCCQeWF21FXITw9jUtuVBkkTMnzD75LSkMJ7XUz47AUvWSG9EPq.NoatMdzv4gVCV1ZR)
