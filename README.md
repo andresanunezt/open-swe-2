@@ -99,8 +99,9 @@ Resources for SWE Open Cohort
 * [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLScBTlGTVpxuwVvJUIIE-vLp5YboY6iUWMKb5lgF8770KhmdoQ/viewform)
 
 #### Lesson 2: Sequelize & Web/App Servers
-* [BD Sequelize Demo](https://multiverse-io.zoom.us/rec/share/FMweCYHY7PIp5NCCQeWF21FXITw9jUtuVBkkTMnzD75LSkMJ7XUz47AUvWSG9EPq.NoatMdzv4gVCV1ZR)
+* [AM Recording: Sequelize Part 2](https://multiverse-io.zoom.us/rec/share/FMweCYHY7PIp5NCCQeWF21FXITw9jUtuVBkkTMnzD75LSkMJ7XUz47AUvWSG9EPq.NoatMdzv4gVCV1ZR)
 * [Exit Ticket - Sequelize](https://docs.google.com/forms/d/e/1FAIpQLScBTlGTVpxuwVvJUIIE-vLp5YboY6iUWMKb5lgF8770KhmdoQ/viewform)
+* [PM Recording: Web Servers](https://multiverse-io.zoom.us/rec/share/dTwnJXR8_FqUY_KD0UO35EOPP4re_i-CgjdQWQCpKyRDVvLVattF2g8XJ-VEYRsn.P9yOMAmeDAOW3l_D)
 * [Slides - Web Servers](https://docs.google.com/presentation/d/1S-juyZyrLwZGomj1tVWgSWCkZQSzsMKW7tCZh09rIpY/edit#slide=id.gddcce021ba_0_0)
 * [Delivery Plan - Web Servers](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-4-RESTful_Servers/0.4.2-Application_Servers.html#javascript)
 * [Postman](https://www.postman.com/downloads/)
