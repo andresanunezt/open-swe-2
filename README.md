@@ -103,5 +103,5 @@ Resources for SWE Open Cohort
 * [Exit Ticket - Sequelize](https://docs.google.com/forms/d/e/1FAIpQLScBTlGTVpxuwVvJUIIE-vLp5YboY6iUWMKb5lgF8770KhmdoQ/viewform)
 * [Slides - Web Servers](https://docs.google.com/presentation/d/1S-juyZyrLwZGomj1tVWgSWCkZQSzsMKW7tCZh09rIpY/edit#slide=id.gddcce021ba_0_0)
 * [Delivery Plan - Web Servers](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-4-RESTful_Servers/0.4.2-Application_Servers.html#javascript)
-* [Postman] (https://www.postman.com/downloads/)
+* [Postman](https://www.postman.com/downloads/)
 * [Exit Ticket - Express Web Servers](https://docs.google.com/forms/d/e/1FAIpQLSfMpjFCkG-ehKo_UtpnyTAfN9HTpXA69COuu5NqcCYKuSgm3w/viewform)
