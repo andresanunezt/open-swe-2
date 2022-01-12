@@ -1,10 +1,15 @@
 const express = require('express');
+// console.log(express);
 const app = express();
+// console.log(app);
 
 const {Musician, Band} = require("./index");
 const {sequelize} = require('./db');
 
 const port = 8080;
+
+//parse json - middleware
+app.use(express.json());
 
 app.get('/', async (req, res) => {
 	res.send('<h1>Hello!</h1>')
@@ -30,12 +35,34 @@ app.get('/bands/:id', async (req, res) => {
     res.json({band})
 })
 
+//create a new musician
+app.post('/musicians', async (req, res) => {
+    const newMusician = await Musician.create(req.body);
+    res.send('Created!')
+})
+
+//delete a musician
+app.delete('/musicians/:id', async (req, res) => {
+    await Musician.destroy({
+        where: {id: req.params.id}
+    })
+    res.send('Deleted!')
+})
+
+//update a musician
+app.put('/musicians/:id', async (req, res) => {
+    await Musician.update(req.body, {
+        where: {id: req.params.id}
+    })
+    res.send("Updated!")
+})
+
 app.listen(port, async() => {
     await seed()
     console.log(`Server is listening on http://localhost:${port}`)
 })
 
-//Adds Musicians and Band to database
+//Adds Musician and Band to database
 async function seed(){
 	await sequelize.sync({ force: true });
 
@@ -54,5 +81,4 @@ async function seed(){
 	await destiny.addMusician(KR);
 
     console.log("db seeded!")
-
 }
