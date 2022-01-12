@@ -12,4 +12,4 @@ User.init({
 })
 
 //export this model
-module.exports = User
+module.exports = {User}
