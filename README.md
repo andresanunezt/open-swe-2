@@ -113,4 +113,5 @@ Resources for SWE Open Cohort
 * [AM Recording - Route Params](https://multiverse-io.zoom.us/rec/share/7vzLJ9SA0BENfaCGlBanNmV2RLYmyJrTQak22LXuJDJDcrTbObcdrpUJHuehbmI5.o95xmONp4HizAZd9)
 * [PM Slides - CRUD](https://docs.google.com/presentation/d/1rMXmZLBskR2CtYjUpQBFUMEFkPRESqX0bKcFkxa2l3E/edit)
 * [PM Notes - CRUD](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-4-RESTful_Servers/0.4.5-CRUD_operations.html#javascript)
+* [PM Recording - CRUD/Postman](https://multiverse-io.zoom.us/rec/share/j2K57kzTJAStsDkTWtaMaZCeUNN4x7mocz7AE-V1DioU_2Jl_VCeWXFa6d1nPi7m.b3UFwIv8MuUy4DlZ)
 * [Exit Ticket - Route Params & CRUD](https://docs.google.com/forms/d/e/1FAIpQLSd3lz1mTY-_tKKpDsdH3ZFBEKc7eNoSOJmdGAdL6Su35UunLQ/viewform?usp=sf_link)
