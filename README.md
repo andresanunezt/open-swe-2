@@ -106,3 +106,7 @@ Resources for SWE Open Cohort
 * [Delivery Plan - Web Servers](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-4-RESTful_Servers/0.4.2-Application_Servers.html#javascript)
 * [Postman](https://www.postman.com/downloads/)
 * [Exit Ticket - Express Web Servers](https://docs.google.com/forms/d/e/1FAIpQLSfMpjFCkG-ehKo_UtpnyTAfN9HTpXA69COuu5NqcCYKuSgm3w/viewform)
+
+#### Lesson 3: Route Params & CRUD
+* [AM Slides - Route Params](google.com/presentation/d/1Gogt1bg8M2UI7IFhLscz9pzwDKze8qeb5zYhHSRj8Cw/)
+* [Notes - Route Params](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-4-RESTful_Servers/0.4.4-Route_Parameters.html#javascript)
