@@ -5,8 +5,7 @@ const fs = require('fs').promises //will help me resolve and or reject promises 
 //import our database
 const {db} = require('./db')
 //import our model
-const {Game} = require('./models/Game')
-const {User} = require('./models/User') // [X]
+const {Game, User} = require('./models/index') //[x]
 
 //All sequelize methods return promises -> 
 
