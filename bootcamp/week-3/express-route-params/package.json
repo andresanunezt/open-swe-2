@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "test": "jest",
-    "start": "node app.js"
+    "start": "nodemon app.js"
   },
   "author": "",
   "license": "ISC",
@@ -12,6 +12,7 @@
   "dependencies": {
     "express": "^4.17.2",
     "jest": "^27.4.7",
+    "nodemon": "^2.0.15",
     "sequelize": "^6.13.0",
     "sqlite3": "^5.0.2"
   }
