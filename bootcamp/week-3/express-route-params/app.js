@@ -38,7 +38,7 @@ app.get('/bands/:id', async (req, res) => {
 //create a new musician
 app.post('/musicians', async (req, res) => {
     const newMusician = await Musician.create(req.body);
-    res.send('Created!')
+    res.json({newMusician})
 })
 
 //delete a musician
