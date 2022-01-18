@@ -119,3 +119,10 @@ Resources for SWE Open Cohort
 #### Lesson 4: Databases & Servers Project
 * [Databases and Servers Week 3 Final Project](https://docs.google.com/document/d/1C0InfFEVfzzydGttkxwjAbyM6J-N7_Rb_fRsi-VIIrs/edit?usp=sharing)
 * [Pre-reading: Human Computer Interaction](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-5-Human_Computer_Interaction/0.5.1-Human_Computer_Interaction.html#javascript)
+
+### Week 4
+
+#### Lesson I: Server-Side Rendering
+* [Pre-reading](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-5-Human_Computer_Interaction/0.5.1-Human_Computer_Interaction.html#javascript)
+* [AM slides](https://docs.google.com/presentation/d/1Wz-Kfx7AiT_OOBEIHX0tXLMInW7hMI7gXO2vbUXYmh0/edit#slide=id.ge0b897f43a_0_0)
+* [AM Notes](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-5-Human_Computer_Interaction/0.5.2-Server_Side_Rendering.html#javascript)
