@@ -10,6 +10,14 @@ const port = 3000
 
 const app = express();
 
+//configure handlebars library to work well w/ express + sequelize model
+const handlebars = expressHandlebars({
+    handlebars: allowInsecurePrototypeAccess(Handlebars)
+})
+//tell this express app that we're using handlebars
+app.engine('handlebars', handlebars)
+app.set('view engine', 'handlebars')
+
 // serve static assets from the public/ folder
 app.use(express.static('public'));
 
@@ -33,8 +41,7 @@ seedDb();
 
 app.get('/sauces', async (req, res) => {
     const sauces = await Sauce.findAll()
-    // res.json({ sauces })
-    res.json({ sauces })
+    res.render('sauces', {sauces}) //2 arguments: string name of the template, data to enter
 })
 
 app.get('/sauces/:id', async (req, res) => {
