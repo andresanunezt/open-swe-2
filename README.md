@@ -124,5 +124,6 @@ Resources for SWE Open Cohort
 
 #### Lesson I: Server-Side Rendering
 * [Pre-reading](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-5-Human_Computer_Interaction/0.5.1-Human_Computer_Interaction.html#javascript)
-* [AM slides](https://docs.google.com/presentation/d/1Wz-Kfx7AiT_OOBEIHX0tXLMInW7hMI7gXO2vbUXYmh0/edit#slide=id.ge0b897f43a_0_0)
+* [AM Slides](https://docs.google.com/presentation/d/1Wz-Kfx7AiT_OOBEIHX0tXLMInW7hMI7gXO2vbUXYmh0/edit#slide=id.ge0b897f43a_0_0)
 * [AM Notes](https://multiverselearningproducts.github.io/curriculum/Bootcamp/Unit-5-Human_Computer_Interaction/0.5.2-Server_Side_Rendering.html#javascript)
+* [Additional Handlebars Reading](https://handlebarsjs.com/guide/expressions.html#basic-usage)
